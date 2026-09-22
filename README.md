@@ -23,17 +23,3 @@ pnpm exec playwright install
 pnpm test
 ```
 
-4. Type-check:
-
-```bash
-pnpm run typecheck
-```
-
-Files created
-
-- [package.json](package.json)
-- [tsconfig.json](tsconfig.json)
-- [playwright.config.ts](playwright.config.ts)
-- [tests/example.spec.ts](tests/example.spec.ts)
-- [.gitignore](.gitignore)
-- [README.md](README.md)
